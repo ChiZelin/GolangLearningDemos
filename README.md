@@ -118,6 +118,12 @@
 
 *   包含了 channel 的创建、发送数据、接收数据、关闭 channel 等操作的示例，以及通过 channel 进行 goroutine 之间的通信。
 
+### select
+
+
+
+*   展示了 select 语句在处理多个 channel 操作时的用法，包括从多个 channel 中接收数据、处理 channel 的超时等场景，体现了其在并发控制中的灵活性。
+
 ### 锁
 
 
